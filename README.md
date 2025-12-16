@@ -76,6 +76,24 @@ A full list of required packages is loaded at the beginning of the script.
 
 ---
 
+## Databases and external data sources
+
+This study integrates information from multiple external databases. Users of this repository should respect the original terms of use and citation requirements of each data provider.
+
+| Database | Use | Version / access date | Link |
+|--------|-----|----------------------|------|
+| Mammal Diversity Database (MDD) | Taxonomy (reference database) | v1.9.1 | https://www.mammaldiversity.org/ |
+| CLOVER | Host–pathogen associations | Accessed on February 29, 2023 | https://github.com/viralemergence/clover |
+| VIRION | Host–virus associations | v25 (September 16, 2025) | https://doi.org/10.5281/zenodo.17128513 |
+| CITES checklist | CITES appendices and date of listing | Accessed on June 30, 2023 | https://checklist.cites.org/#/en |
+| CITES trade database | Traded species; temporal trends in species trade | v2023.1 | https://trade.cites.org/ |
+| LEMIS | Traded species | v2025 | https://figshare.com/s/960af99373aba13791be |
+| IUCN Red List | Synanthropy; species used as human food (wild meat) | Accessed on May 1, 2024 (synanthropy) and July 20, 2025 (wild meat) | https://www.iucnredlist.org/ |
+| VertLife | Mammal phylogeny | Accessed on February 25, 2023 | http://vertlife.org/phylosubsets/ |
+| DSW | Illegally traded species | v2021 | https://figshare.com/articles/dataset/Dataset_of_seized_wildlife_and_their_intended_uses/14914773 |
+
+---
+
 ## Citation
 
 If you use this data or code, please cite:
